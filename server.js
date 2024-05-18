@@ -6,7 +6,7 @@ const mysql = require('mysql');
 const bodyParser = require('body-parser');
 
 const app = express();
-const PORT = 3000;  
+const PORT = 3001;  
 //3306
 // SSL options
 const options = {
